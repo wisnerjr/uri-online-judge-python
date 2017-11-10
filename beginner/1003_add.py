@@ -1,6 +1,6 @@
-A = (int)(input())
-B = (int)(input())
+A = int(input())
+B = int(input())
 
 SOMA = A + B
 
-print("SOMA = %i" %SOMA)
+print("SOMA = %i" % SOMA)

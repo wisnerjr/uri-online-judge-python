@@ -3,4 +3,4 @@ B = int(input())
 
 X = A + B
 
-print("X = %i" %X)
+print("X = %i" % X)

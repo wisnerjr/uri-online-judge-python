@@ -1,6 +1,6 @@
-A = (int)(input())
-B = (int)(input())
+A = int(input())
+B = int(input())
 
 PROD = A * B
 
-print("PROD = %i" %PROD)
+print("PROD = %i" % PROD)
