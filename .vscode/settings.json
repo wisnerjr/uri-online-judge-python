@@ -1,4 +1,6 @@
 {
     "python.linting.pylintEnabled": false,
-    "python.pythonPath": "C:\\Users\\wisner.junior\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe"
+    // "python.pythonPath": "C:\\Users\\wisner.junior\\AppData\\Local\\Programs\\Python\\Python36-32\\python.exe"
+    "python.pythonPath": "C:\\Users\\Júnior\\AppData\\Local\\Programs\\Python\\Python36\\python.exe"
+    
 }
